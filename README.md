@@ -1,7 +1,9 @@
 
-## engine2d (project-pgk)
+## 2Dengine
 
 A small 2D engine written in C++ using Allegro 5. The project contains a simple renderer, input handling and a minimal scene with shapes (line, rectangle, circle).
+
+<img width="912" height="744" alt="2Dengine" src="https://github.com/user-attachments/assets/0bc26b20-d2c4-47c5-b769-e16776acefd4" />
 
 This README explains how to build and run the project on macOS / Linux and Windows, how to install dependencies, and how to troubleshoot common issues (Allegro main shim, duplicate windows, runtime crashes).
 
